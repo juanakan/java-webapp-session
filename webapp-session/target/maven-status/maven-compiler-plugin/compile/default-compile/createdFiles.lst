@@ -1,0 +1,9 @@
+org\juan\apiservlet\webapp\headers\services\ProductoServiceImpl.class
+org\juan\apiservlet\webapp\headers\controllers\LoginServlet.class
+org\juan\apiservlet\webapp\headers\services\ProductoService.class
+org\juan\apiservlet\webapp\headers\services\LoginServiceSessionImpl.class
+org\juan\apiservlet\webapp\headers\services\LoginService.class
+org\juan\apiservlet\webapp\headers\controllers\LogoutServlet.class
+org\juan\apiservlet\webapp\headers\controllers\ProductoServlet.class
+org\juan\apiservlet\webapp\headers\services\LoginServiceCookieImpl.class
+org\juan\apiservlet\webapp\headers\models\Producto.class
